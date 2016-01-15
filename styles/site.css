@@ -28,6 +28,7 @@ body {
   height: 70%; }
 
 a, a:visited {
+  background-color: inherit;
   color: #ffffff;
   transition: all 0.2s ease-in;
   -moz-transition: all 0.2s ease-in;
@@ -36,6 +37,7 @@ a, a:visited {
   text-decoration: none; }
 
 a:hover {
+  background-color: inherit;
   color: #FFF176;
   transition: all 0.2s ease-in;
   -moz-transition: all 0.2s ease-in;
